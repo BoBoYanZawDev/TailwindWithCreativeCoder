@@ -9,7 +9,7 @@ export default {
     extend: {
       colors : {
         'own-primary' : '#7971EB' ,
-        'own-border-color' : '#E6E6EF' 
+        'own-color-light' :'#E6E6EF' ,
       }
     },
   },
