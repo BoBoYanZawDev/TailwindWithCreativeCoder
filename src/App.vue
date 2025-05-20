@@ -17,10 +17,10 @@
       </div>
   </div>
   <section class="section1 container px-4 mx-auto grip grid-cols-2 gap-4">
-    <div class="col-span-1 ">
+    <div class="col-span-1 flex align-center ">
         <h1 class="font-bold text-6xl">
           Landing Page Template for <span class="text-own-primary ">
-            Startups
+            Startups 
           </span>
         </h1>
         <p class="text-sm text-left">Use our template to quickly and efficiently brand your growing business.</p>
@@ -28,8 +28,8 @@
           <button type="button" class="btn">Preview Template</button>
           <button type="button" class=" btn-outline ">Learn More</button>
         </div>
-    </div>
-    <div class="col-span-2">
+      </div>
+ <div class="col-span-2">
       <img src="" alt="">
     </div>
   </section>
