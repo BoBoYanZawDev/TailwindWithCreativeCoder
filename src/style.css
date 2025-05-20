@@ -13,4 +13,10 @@
       @apply border-own-primary px-5 py-3 border-2 rounded-md hover:text-white hover:border-gray-700 hover:bg-gray-700 hover:translate-y-1 hover:translate-x-[-3px] transition-all hover:bg-gray-700 ;
     }
   }
+
+@layer utilities{
+    .custom-padding{
+      @apply  md:px-10 px-5 lg:px-16 xl:px-20;
+    }
+}
   
